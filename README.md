@@ -87,6 +87,7 @@ Logic symbol & Truthtable:
 
 RTL realization
 Output:
+
 ![201479990-0031869b-dc41-480b-b065-312e634b405e](https://user-images.githubusercontent.com/94169318/201972274-919d7e2c-a374-486b-8575-587b11c3d09d.png)
 
 RTL
