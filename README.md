@@ -80,7 +80,9 @@ nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
 ```
-Logic symbol & Truthtable
+
+Logic symbol & Truthtable:
+
 ![201479976-7a9f9bde-9d7a-4182-91d2-2526df2687d1](https://user-images.githubusercontent.com/94169318/201972178-14ee730d-8270-40a1-b4ec-b9140886dee5.png)
 
 RTL realization
